@@ -1,0 +1,5 @@
+# IDE settings (machine-specific)
+.idea/
+*.iml
+.vscode/
+.DS_Store
